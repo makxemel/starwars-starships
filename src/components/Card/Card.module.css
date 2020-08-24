@@ -1,0 +1,11 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  opacity: 0.9;
+  font-size: bold;
+}
+
+.card p {
+  text-align: center;
+}

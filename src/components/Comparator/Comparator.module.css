@@ -1,0 +1,9 @@
+.compare__table {
+  text-align: center;
+}
+
+.compare__table span {
+  opacity: 0.4;
+  font-size: 23px;
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  background: url('https://ak9.picdn.net/shutterstock/videos/22001749/thumb/1.jpg');
+  color: white;
+  font-size: 18px;
+}
+
+h1,
+h2 {
+  font-family: 'Press Start 2P';
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.header {
+  text-align: center;
+}
